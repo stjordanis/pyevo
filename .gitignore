@@ -1,2 +1,19 @@
 # Jetbrains project metadata
 .idea/
+
+# Python virtual environment
+venv/
+
+# Setuptools files
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+
+# Tox and PyTest files
+.tox
+.cache
